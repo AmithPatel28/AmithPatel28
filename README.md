@@ -15,11 +15,11 @@
 ```python
 class Developer:
     def __init__(self):
-        http://self.name = "${YOUR_NAME}"
-        self.role = "Full Stack Developer"
+        http://self.name = "Amith Patel"
+        self.role = "Data Analyist"
         self.language_spoken = ["English", "Hindi"]
-        self.location = "${YOUR_LOCATION}"
-        self.learning = ["AI/ML", "FastAPI", "Django REST Framework"]
+        self.location = "Mysore"
+        self.learning = ["Python", "SQL", "Pandas", "Numpy", "Seaborn", "PowerBi", "MatplotLib"]
         self.interests = ["Web Dev", "Open Source", "Automation"]
 
     def say_hi(self):
