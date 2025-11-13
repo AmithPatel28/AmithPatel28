@@ -103,19 +103,19 @@ class Developer:
 
 ## 🎯 Fun Dashboard (Data Analyst Edition)
 
+## 🎯 Fun Dashboard (Animated)
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
 </p>
 
-<!-- 🎭 Random Jokes related to Data Analysts -->
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&category=data" alt="Data Analyst Joke" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke" />
 </p>
 
-<!-- 💡 Random Data / Analytics Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quoteCategory=data" alt="Data Quote" />
-</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p> in this part add all the  random joke related to Data Analyst
 
 
 ---
