@@ -140,7 +140,6 @@ class Developer:
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="250" alt="Data Analyst Fun" />
 </p>
 
-
 ---
 
 ## ⚡ Activity Timeline
