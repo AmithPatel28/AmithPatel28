@@ -117,10 +117,6 @@ class Developer:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quoteCategory=data" alt="Data Quote" />
 </p>
 
-<!-- 🧠 Bonus: Fun GIF for Analysts -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="250" alt="Data Analyst Fun" />
-</p>
 
 ---
 
