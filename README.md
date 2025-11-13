@@ -85,7 +85,22 @@ class Developer:
 ## ⚙️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,mysql,sqlite,git,github,vscode,linux&perline=8" />
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,linux&perline=8" />
+</p>
+
+<p align="center">
+  <!-- Data Science & Analytics Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50" height="50" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="50" alt="Seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" width="50" height="50" alt="Excel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI" />
+</p>
+
+<p align="center">
+  🧮 <b>Statistics • Data Cleaning • Visualization • Dashboarding • EDA • Reporting</b>
 </p>
 
 ---
