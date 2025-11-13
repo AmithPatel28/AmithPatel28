@@ -32,11 +32,10 @@ class Developer:
 
 <div align="center">
 
-|   **Languages**   |    **Frameworks**   |   **Databases**   |   **Tools / IDEs**  |
-| :---------------: | :-----------------: | :---------------: | :-----------------: |
-|     🐍 Python     | 🌐 Django / FastAPI | 💾 MySQL / SQLite |      ⚙️ VSCode      |
-| 🕸️ HTML, CSS, JS |   ⚛️ React (Basic)  |   🗄️ PostgreSQL  |    🧭 Git, GitHub   |
-|  📊 NumPy, Pandas |     🔍 REST APIs    |    ☁️ Firebase    | 🧩 Jupyter Notebook |
+| **Programming** | **Libraries** | **Visualization Tools** | **Data Tools / Platforms** | **Concepts** |
+| :--------------- | :------------- | :---------------------- | :------------------------- | :------------ |
+| 🐍 **Python** | 🧮 **NumPy** | 📈 **Matplotlib** | 📊 **Excel** | 📉 **Statistics** |
+| 🗃️ **SQL** | 🧹 **Pandas** | 🌈 **Seaborn** | ⚡ **Power BI** | 📊 **Data Cleaning & Analysis** |
 
 </div>
 
