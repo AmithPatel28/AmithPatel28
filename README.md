@@ -101,21 +101,33 @@ class Developer:
 
 ---
 
-## 🎯 Fun Dashboard (Data Analyst Edition)
+<h2 align="center">🎯 Fun Dashboard (Data Analyst Edition)</h2>
 
-## 🎯 Fun Dashboard (Animated)
+<div align="center">
+  <p id="joke" style="font-size:18px; font-family:monospace;">😂 Loading a funny joke...</p>
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="200" alt="Data Analyst Fun" />
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
-</p>
+<script>
+const jokes = [
+  "🧮 Without data, you're just another person with an opinion.",
+  "😂 I told my data a joke... it still needs cleaning.",
+  "📊 Data analysts never get lost — they always find the mean.",
+  "🤓 Excel is just adult LEGO for analysts.",
+  "📉 My SQL skills are relationally strong.",
+  "💡 In God we trust; all others bring data.",
+  "📈 Correlation isn’t causation, but it sure looks suspicious!",
+  "🧠 I dream in rows and columns."
+];
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p> in this part add all the  random joke related to Data Analyst
+let index = 0;
+function showJoke() {
+  document.getElementById("joke").textContent = jokes[index];
+  index = (index + 1) % jokes.length;
+}
+showJoke();
+setInterval(showJoke, 5000);
+</script>
 
 
 ---
