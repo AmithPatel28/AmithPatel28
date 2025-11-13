@@ -101,33 +101,44 @@ class Developer:
 
 ---
 
-<h2 align="center">🎯 Fun Dashboard (Data Analyst Edition)</h2>
+## 🎯 Fun Dashboard (Data Analyst Edition)
 
-<div align="center">
-  <p id="joke" style="font-size:18px; font-family:monospace;">😂 Loading a funny joke...</p>
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="200" alt="Data Analyst Fun" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+</p>
 
-<script>
-const jokes = [
-  "🧮 Without data, you're just another person with an opinion.",
-  "😂 I told my data a joke... it still needs cleaning.",
-  "📊 Data analysts never get lost — they always find the mean.",
-  "🤓 Excel is just adult LEGO for analysts.",
-  "📉 My SQL skills are relationally strong.",
-  "💡 In God we trust; all others bring data.",
-  "📈 Correlation isn’t causation, but it sure looks suspicious!",
-  "🧠 I dream in rows and columns."
-];
+<p align="center">
+  <div style="
+    display:inline-block;
+    text-align:center;
+    background:linear-gradient(145deg, #1a1a1a, #121212);
+    color:#f5f5f5;
+    border:2px solid red;
+    border-radius:20px;
+    box-shadow:0 0 10px rgba(255,0,0,0.4);
+    padding:25px;
+    width:70%;
+    font-family:'Poppins',sans-serif;
+  ">
+    <h3 style="color:#ff4d4d; text-shadow:0 0 5px rgba(255,0,0,0.5);">😂 Data Analyst Jokes</h3>
+    <p>🧮 "Without data, you're just another person with an opinion."</p>
+    <p>😂 "I told my data a joke... it still needs cleaning."</p>
+    <p>📊 "Data analysts never get lost — they always find the mean."</p>
+    <p>🤓 "Excel is just adult LEGO for analysts."</p>
+    <p>📉 "My SQL skills are relationally strong."</p>
+    <p>💡 "In God we trust; all others bring data."</p>
+    <p>📈 "Correlation isn’t causation, but it sure looks suspicious!"</p>
+    <p>🧠 "I dream in rows and columns."</p>
+  </div>
+</p>
 
-let index = 0;
-function showJoke() {
-  document.getElementById("joke").textContent = jokes[index];
-  index = (index + 1) % jokes.length;
-}
-showJoke();
-setInterval(showJoke, 5000);
-</script>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="250" alt="Data Analyst Fun" />
+</p>
 
 
 ---
